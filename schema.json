@@ -1,0 +1,22 @@
+{
+  "id":"",
+  "title":"",
+  "content":
+  [
+    {
+      "id":"",
+      "text":"",
+      "createdOn":"",
+      "comments":
+        [
+          {
+            "id":"",
+            "text":"",
+            "createdOn":""
+          }
+        ]
+      }
+    ],
+    "createdOn":"",
+    "link":""
+}
